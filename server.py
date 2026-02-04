@@ -11,7 +11,7 @@ from collector import collector
 from config import APP_CATEGORIES, BASE_DIR
 import autostart
 
-PORT = 8080
+PORT = 52847
 
 def format_duration(seconds):
     if seconds < 60:
